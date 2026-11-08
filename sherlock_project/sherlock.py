@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+sherlock <@remyfluxy> --nsfw --print-found --csv#! /usr/bin/env python3
 
 """
 Sherlock: Find Usernames Across Social Networks Module
